@@ -1,0 +1,163 @@
+body{
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    margin-left: 7px;
+    background-image: url("poz.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+div.blok{
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: rgba(139, 221, 225, 0.8);
+}
+.nalb{text-align: center;}
+div.blopa{
+  width: 40%;
+  margin-left: 30%;
+  margin-right: 30%;
+  background-color: rgba(139, 221, 225, 0.8);
+}
+div.blona{
+  width: 44%;
+  margin-left: 28%;
+  margin-right: 28%;
+  background-color: rgba(139, 221, 225, 0.8);
+}
+h1{
+  text-align: center;
+}
+ul.izbornik {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+li.izbornik
+  {
+    display: inline;
+    padding: 7px;
+    background-color: #44c4ffd8;
+  }
+a.izbornik{
+  color: #480d50;
+  text-decoration: none;
+}
+li a:hover{
+  color: #ee78d4;
+  background-color: #480d50;
+}
+table.tablica{
+  width: 40%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+.tablica{
+  border: dashed 1px #0f0050;
+  text-align: left;
+}
+#gdje.tablica {
+  text-align: center;
+  color: #0f0050cb;
+}
+h2.np{
+  text-align: center;
+  color: #0f0050;
+}
+div.uvod{
+  text-align: center;
+}
+h1.nasl{
+  text-shadow: 1px 1px 7px rgb(248, 64, 208);
+  color: rgb(38, 1, 97);
+}
+li.albumi{
+  list-style-type: circle;
+  color: #010c33;
+}
+h2.nalb{
+  color: #0f0050;
+  padding: 17px;
+}
+a:link{
+  color: #63058f;
+}
+h2.kontaktnasl{
+  display: inline;
+  background-color: rgba(139, 221, 225, 0.8);
+  color: #0f0050;
+  padding: 17px;
+  text-align: center;
+}
+div.divkontakt{
+  margin-left: 45%;
+  margin-right: 45%;
+}
+div.blo{
+  text-align: center;
+}
+
+h2.galnasl{
+  display: inline;
+  background-color: rgba(139, 221, 225, 0.8);
+  color: #0f0050;
+  padding: 17px;
+  text-align: center;
+}
+div.galnas{
+  margin-left: 45%;
+  margin-right: 45%;
+}
+h4{
+  color: #010c33;
+}
+h2.obr{
+  color: #0f0050;
+  text-align: center;
+}
+
+a.upit{
+  text-align: left;
+  margin-left: 9%;
+  margin-right: 45%;
+}
+textarea.area{
+  margin-left: 9%;
+}
+.ime{  margin-left: 9%;
+}
+.submit{
+  margin-left: 48%;
+  margin-right: 48%;
+}
+
+div.galerija {
+  margin-left: 500px;
+  border: 4px solid rgb(217, 251, 255);
+  float: left;
+  width: 500px;
+}
+
+div.galerija:hover {
+  border: 7px solid rgb(100, 252, 244);
+}
+
+div.galerija img {
+  width: 100%;
+  height: auto;
+}
+.zasve{
+  margin-left: 33.4%;
+}
+div.opis {
+  padding: 15px;
+  margin-left: 38.5%;
+  text-align: center;
+  display: inline;
+  background-color: rgba(139, 221, 225, 0.8);
+  color: #0f0050;
+}
+div.ikon{
+  margin-left: 90%;
+}
